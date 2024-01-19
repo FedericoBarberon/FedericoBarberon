@@ -1,16 +1,21 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Federico Barberón!
 
-<!--
-**FedericoBarberon/FedericoBarberon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo web que disfruta explorando y creando nuevas cosas. Aquí encontrarás una variedad de proyectos en los que he trabajado, desde pequeñas herramientas hasta proyectos más grandes.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Vivo en Buenos Aires - Argentina.
+- 🎓 Estudiante de la Licenciatura en Ciencias de la Computación en la UBA.
+
+## Mis habilidades
+
+- 💻 Lenguajes de programación: Javascript.
+- 🛠️ Tecnologías y herramientas: React - Next.js - TailwindCSS.
+- 📚 Siempre estoy aprendiendo y explorando nuevas tecnologías.
+
+## Contacto
+
+- 📧 Puedes contactarme por correo electrónico: jfedericobarberonj@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/barberon-federico
+
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos. No dudes en ponerte en contacto si tienes alguna pregunta o sugerencia.
