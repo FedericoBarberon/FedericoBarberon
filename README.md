@@ -9,8 +9,7 @@
 
 ## Mis habilidades
 
-- 💻 Lenguajes de programación: Javascript.
-- 🛠️ Tecnologías y herramientas: React - Next.js - TailwindCSS.
+- 💻 Lenguajes y tecnologías: HTML - CSS - JavaScript - React - Next.js - Typescript - TailwindCSS
 - 📚 Siempre estoy aprendiendo y explorando nuevas tecnologías.
 
 ## Contacto
