@@ -16,6 +16,4 @@
 ## Contacto
 
 - 📧 Puedes contactarme por correo electrónico: jfedericobarberonj@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/barberon-federico
-
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos. No dudes en ponerte en contacto si tienes alguna pregunta o sugerencia.
+- 💼 Puedes encontrarme en [LinkedIn](https://linkedin.com/in/barberon-federico)
