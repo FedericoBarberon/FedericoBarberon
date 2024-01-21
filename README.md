@@ -1,18 +1,14 @@
-# ¡Hola! 👋 Soy Federico Barberón!
+# Hello! 👋 I’m Federico Barberón!
+Welcome to my GitHub profile! I am passionate about web development and enjoy exploring and creating new things. Here you will find a variety of projects I have worked on, from small tools to larger projects.
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo web que disfruta explorando y creando nuevas cosas. Aquí encontrarás una variedad de proyectos en los que he trabajado, desde pequeñas herramientas hasta proyectos más grandes.
+## About me
+- 🌐 I live in Buenos Aires - Argentina.
+- 🎓 I’m a Computer Science student at UBA.
 
-## Sobre mí
+# My skills
+- 💻 Languages and technologies: HTML - CSS - JavaScript - React - Next.js - Typescript - TailwindCSS
+- 📚 I’m always learning and exploring new technologies.
 
-- 🌐 Vivo en Buenos Aires - Argentina.
-- 🎓 Estudiante de la Licenciatura en Ciencias de la Computación en la UBA.
-
-## Mis habilidades
-
-- 💻 Lenguajes y tecnologías: HTML - CSS - JavaScript - React - Next.js - Typescript - TailwindCSS
-- 📚 Siempre estoy aprendiendo y explorando nuevas tecnologías.
-
-## Contacto
-
-- 📧 Puedes contactarme por correo electrónico: jfedericobarberonj@gmail.com
-- 💼 Puedes encontrarme en [LinkedIn](https://linkedin.com/in/barberon-federico)
+# Contact
+- 📧 You can contact me by email: jfedericobarberonj@gmail.com
+- 💼 You can find me on [LinkedIn](https://linkedin.com/in/barberon-federico)
