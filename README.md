@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I am passionate about web development and enjoy ex
 - 🌐 I live in Buenos Aires - Argentina.
 - 🎓 I’m a Computer Science student at UBA.
 
-# My skills
+## My skills
 - 💻 Languages and technologies: HTML - CSS - JavaScript - React - Next.js - Typescript - TailwindCSS
 - 📚 I’m always learning and exploring new technologies.
 
-# Contact
+## Contact
 - 📧 You can contact me by email: jfedericobarberonj@gmail.com
 - 💼 You can find me on [LinkedIn](https://linkedin.com/in/barberon-federico)
